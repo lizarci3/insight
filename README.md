@@ -1,2 +1,2 @@
-# insight
-Airbnb price optimization
+# FairBnB
+An Airbnb price optimization
