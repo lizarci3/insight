@@ -22,3 +22,7 @@ A big caveat in occupancy is the fact that the calendar only displays available 
 To obtain similar listings in the city of Toronto (compared with the new listing) I used a cosine similarity function that takes into account the features of your home and gives you descriptive statistics (occupancy and ratings) of the top 5% listings that are the most similar to yours.
 
 ![Type of Airbnb](pie_room_type.png)
+![Host ID](host_id_verified.png)
+![Superhost](host_is_superhost.png)
+![Features](price_features.png)
+![Log Prices](log10_prices_distribution_all.png)
